@@ -1,0 +1,9 @@
+文件放到bds目录
+首次使用，先运行RoDB.exe
+dll mods放到 bdxcore_mod/
+启动bds即可
+
+
+-------------------------------
+开发者只需将sdk内BDXCORE.lib加入项目，然后#include"bdxcore.h"
+即可使用THook,SYM,SymCall等API
