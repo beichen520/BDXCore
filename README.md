@@ -1,2 +1,3 @@
 # BDXCore
-BDXCore ½»Á÷Èº:364314692
+BDXCore QQ Group:364314692  
+Usage: usage.txt
